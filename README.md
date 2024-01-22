@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alphacloud-tech
 - 👀 I’m interested in web developer and software developer
-- 🌱 I’m currently learning to react 
+- 🌱 I’m currently learning react and nestjs
 - 💞️ I’m looking to collaborate on nestjs and nextjs project
 - 📫 How to reach me... adesanjo470@gmail.com
 
